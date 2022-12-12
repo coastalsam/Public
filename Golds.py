@@ -87,7 +87,7 @@ def process_file(filename):
     with open(filename, 'r') as fp:
         data = fp.read()
         occurrences = data.count("(Red)")
-        golds.append('Number of Redss : {}'.format(occurrences))
+        golds.append('Number of Reds : {}'.format(occurrences))
 
     difference = count - last_line_number
     golds.append("Amount of cases since last Reds: {}".format(difference))

@@ -1,5 +1,5 @@
 # Dumb project. HOW TO USE:::
-//create a new folder anywhere and drag the golds.py file into it
+//create a new folder anywhere and drag the golds.py file into it  \n
 //run the csgo stats viewer program
 //find the most recent results file that it produces
 //Open the file and delete all information that isnt the  SORTED BY TIME section at the beginning. I know, this is what makes it dumb.
